@@ -1,0 +1,8 @@
+categories,ranking
+computer programming,3
+math,3
+statistics,2
+machine learning,0
+domain expertise,3
+communication and presentation skills,2
+data visualization,2
